@@ -484,6 +484,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ufoRed_0
       objectReference: {fileID: 0}
+    - target: {fileID: 3357335138354792079, guid: a51e93f100251964fa77639e8ad090a3, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 5514990220055498659, guid: a51e93f100251964fa77639e8ad090a3, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.91
